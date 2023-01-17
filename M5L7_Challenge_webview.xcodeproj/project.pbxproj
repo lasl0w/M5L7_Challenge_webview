@@ -11,6 +11,7 @@
 		F14C790E2976612D009180C8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14C790D2976612D009180C8 /* ContentView.swift */; };
 		F14C79102976612E009180C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F14C790F2976612E009180C8 /* Assets.xcassets */; };
 		F14C79132976612E009180C8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F14C79122976612E009180C8 /* Preview Assets.xcassets */; };
+		F14C791A2976615C009180C8 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14C79192976615C009180C8 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F14C790D2976612D009180C8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F14C790F2976612E009180C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F14C79122976612E009180C8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F14C79192976615C009180C8 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				F14C790B2976612D009180C8 /* M5L7_Challenge_webviewApp.swift */,
 				F14C790D2976612D009180C8 /* ContentView.swift */,
+				F14C79192976615C009180C8 /* WebView.swift */,
 				F14C790F2976612E009180C8 /* Assets.xcassets */,
 				F14C79112976612E009180C8 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F14C791A2976615C009180C8 /* WebView.swift in Sources */,
 				F14C790E2976612D009180C8 /* ContentView.swift in Sources */,
 				F14C790C2976612D009180C8 /* M5L7_Challenge_webviewApp.swift in Sources */,
 			);
