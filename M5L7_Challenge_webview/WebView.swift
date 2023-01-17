@@ -27,7 +27,7 @@ struct WebView: UIViewRepresentable {
     
     // implement a updateUIView
     func updateUIView(_ uiView: WKWebView, context: Context) {
-        
+        // super basic, do nothing
     }
 }
 
